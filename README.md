@@ -60,4 +60,4 @@ Afterwards run:
 
 ```$ make```
 
-To permamently start a node : screen -S demon ./darktaelond (from src dir)
+To permamently start a node : ```screen -S demon ./darktaelond``` (from src dir)
