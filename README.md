@@ -50,7 +50,11 @@ make and cmake
 
 Run :
 
-```$ apt install cmake $ apt install make $ apt-get update```
+```$ apt install cmake```
+
+```$ apt install make```
+
+```$ apt-get update```
 
 In root access, simply type:
 
