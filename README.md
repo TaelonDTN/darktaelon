@@ -8,9 +8,9 @@ Download : ``` https://taelon.io/darktaelonx64.zip ```
 
 Step 2:
 
-Unzip the folder and start : darktaelond.exe
+Unzip the folder and start : ``` darktaelond.exe ```
 
-Then start simplewallet.exe
+Then start ``` simplewallet.exe ```
 
 Press 'g' to generate a wallet, then name it and enter a password.
 
