@@ -54,7 +54,7 @@ Run :
 
 In root access, simply type:
 
-```$ cmake /root/darktaelon (path to darktaelon dir)```
+```$ cmake /root/darktaelon``` (path to darktaelon dir)
 
 Afterwards run:
 
