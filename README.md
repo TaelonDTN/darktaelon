@@ -1,4 +1,4 @@
-This is the reference code for DarkTaelon cryptocurrency.
+This is the reference code for DarkTaelon(https://taelon.io) cryptocurrency.
 
 To install on windowsx64
 
