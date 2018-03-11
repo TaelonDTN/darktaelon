@@ -22,25 +22,25 @@ Step 1:
 
 Copy the source code onto your server, simply type :
 
-$ git clone https://github.com/darktaelon/darktaelon
+```$ git clone https://github.com/darktaelon/darktaelon
 
 Step 2:
 
 Go to the newly created directory, simply type:
 
-$ cd darktaelon
+```$ cd darktaelon
 
 Step 3:
 
 Get the environment setup properly, simply type:
 
-$ apt-get install libpthread-stubs0-dev
+```$ apt-get install libpthread-stubs0-dev
 
-$ apt-get install doxygen
+```$ apt-get install doxygen
 
-$ apt-get install libboost-all-dev
+```$ apt-get install libboost-all-dev
 
-$ apt-get install g++
+```$ apt-get install g++
 
 (If you have any issues here try typing: apt-get update after each install)
 
@@ -50,14 +50,14 @@ make and cmake
 
 Run :
 
-$ apt install cmake $ apt install make $ apt-get update
+```$ apt install cmake $ apt install make $ apt-get update
 
 In root access, simply type:
 
-$ cmake /root/darktaelon (path to darktaelon dir)
+```$ cmake /root/darktaelon (path to darktaelon dir)
 
 Afterwards run:
 
-$ make
+```$ make
 
 To permamently start a node : screen -S demon ./darktaelond (from src dir)
