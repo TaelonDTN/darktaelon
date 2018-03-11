@@ -22,13 +22,13 @@ Step 1:
 
 Copy the source code onto your server, simply type :
 
-```$ git clone https://github.com/darktaelon/darktaelon
+```$ git clone https://github.com/darktaelon/darktaelon```
 
 Step 2:
 
 Go to the newly created directory, simply type:
 
-```$ cd darktaelon
+```$ cd darktaelon```
 
 Step 3:
 
