@@ -1,6 +1,20 @@
 This is the reference code for DarkTaelon(https://taelon.io) cryptocurrency.
 
-To install on windowsx64
+To install GUI (Desktop) wallet on windows:
+
+Step 1:
+
+Download : ``` https://taelon.io/windowsGUI-beta.7z ```
+
+Step 2:
+
+Extract/unzip the folder.
+
+Step 3:
+
+Double click ```Darktaelon.exe``` and wait for the wallet to sync.
+
+To install CLI wallet on windows:
 
 Step 1:
 
